@@ -1,0 +1,16 @@
+{
+  "name": "testtool",
+  "type": "package",
+  "blockId": "rwr6ITuGTvI-l7Zk81tmn",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testtool"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
